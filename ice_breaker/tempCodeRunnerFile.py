@@ -1,0 +1,1 @@
+    print(os.environ.get("OPENAI_API_KEY", "No API Key found. Please set the OPENAI_API_KEY in your environment variables.")

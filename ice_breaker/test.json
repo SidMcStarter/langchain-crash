@@ -1,0 +1,215 @@
+{
+  "success": true,
+  "credits_left": 18,
+  "rate_limit_left": 20,
+  "daily_rate_limit_left": 20,
+  "minute_rate_limit_left": 498,
+  "next_minute_rate_limit_reset": "2025-08-04T08:20:27.000Z",
+  "person": {
+    "publicIdentifier": "siddharthdileep13052004",
+    "linkedInIdentifier": "ACoAAC0ExtoB4f2s-ewiYj23f7Y0_e2xYvHwc7Q",
+    "memberIdentifier": "755287770",
+    "linkedInUrl": "https://www.linkedin.com/in/siddharthdileep13052004",
+    "firstName": "Siddharth",
+    "lastName": "Dileep",
+    "headline": "Computer Science Student @ University of Alberta",
+    "location": "Edmonton, Alberta, Canada",
+    "summary": "As a computer science student, I am passionate about AI and the limitless possibilities it offers. My love for coding and problem solving drives me to continuously learn and grow in this field. In my free time, I enjoy playing games and find it to be a great way to unwind and challenge my mind. Above all, I am a hard worker and find great satisfaction in helping others. I believe in using technology to make a positive impact on the world.",
+    "photoUrl": "https://media.licdn.com/dms/image/v2/D4E03AQE5qg9MPU5Tkw/profile-displayphoto-shrink_800_800/B4EZTFcQRtHgAg-/0/1738479306683?e=1756944000&v=beta&t=lq9gAB1rKyOngHO1BkdHYKPCJez9XwgRUM1iCyvP3gY",
+    "backgroundUrl": "https://media.licdn.com/dms/image/v2/D5616AQHQm60BEq5xNA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1676247009093?e=1756944000&v=beta&t=OOr0gZf2qJCZlJPxINT38axtKhEYYregeB6ZLOfLoKo",
+    "openToWork": false,
+    "premium": false,
+    "pronoun": "HE_HIM",
+    "showVerificationBadge": true,
+    "creationDate": {
+      "month": 8,
+      "year": 2019
+    },
+    "followerCount": 220,
+    "positions": {
+      "positionsCount": 4,
+      "positionHistory": [
+        {
+          "title": "Intern",
+          "companyName": "Kennedys IQ",
+          "companyLocation": "Trivandrum, Kerala, India · On-site",
+          "description": "",
+          "startEndDate": {
+            "start": {
+              "month": 6,
+              "year": 2025
+            },
+            "end": null
+          },
+          "contractType": "Internship",
+          "companyLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQFdIYGuzMr31Q/company-logo_400_400/company-logo_400_400/0/1675183419455?e=1756944000&v=beta&t=FAqjEo6pADYd6mtJPZ7DA3er71bxOZ6lk_14kttsjLE",
+          "linkedInUrl": "https://www.linkedin.com/company/92881183/",
+          "linkedInId": "92881183"
+        },
+        {
+          "title": "Mentor",
+          "companyName": "UAlberta Future Creators",
+          "companyLocation": "Edmonton, Alberta, Canada · Remote",
+          "description": "Taught HTML and CSS fundamentals to students in an online learning environment.\n\nProvided hands-on guidance in web development, helping students build and style basic web pages.\n\nAssisted students in troubleshooting code and understanding core concepts of front-end development.\n\nFostered an engaging and supportive learning experience, encouraging students to explore web technologies.",
+          "startEndDate": {
+            "start": {
+              "month": 10,
+              "year": 2024
+            },
+            "end": null
+          },
+          "contractType": "Permanent Part-time",
+          "companyLogo": "https://media.licdn.com/dms/image/v2/C4D0BAQHbQN4-3ADaJw/company-logo_400_400/company-logo_400_400/0/1630576430343?e=1756944000&v=beta&t=HcujSgTvYoqIm3u2_8VLMBhFe-o8URc5d-ckGroS-bI",
+          "linkedInUrl": "https://www.linkedin.com/company/67207461/",
+          "linkedInId": "67207461"
+        },
+        {
+          "title": "Tutor",
+          "companyName": "Ada's Team",
+          "companyLocation": "Edmonton, Alberta, Canada · Hybrid",
+          "description": "Provided one to one tutoring to students, helping them understand complex concepts in calculus, statistics and computer science.\n\nAdapted teaching methods to suit different learning styles, ensuring students grasped material effectively.\n\nAssisted students in problem solving and critical thinking, improving their academic performance.",
+          "startEndDate": {
+            "start": {
+              "month": 9,
+              "year": 2024
+            },
+            "end": null
+          },
+          "contractType": "Permanent Part-time",
+          "companyLogo": "https://media.licdn.com/dms/image/v2/D560BAQFXQNFw5zhHog/company-logo_100_100/B56ZYr.Z0CHoAQ-/0/1744494501424/adas_team_logo?e=1756944000&v=beta&t=N0YG9thnpBI7uFeBVM3f0C4Fk1wyYdMPSqzjs6n6jOk",
+          "linkedInUrl": "https://www.linkedin.com/company/18871737/",
+          "linkedInId": "18871737"
+        },
+        {
+          "title": "Host",
+          "companyName": "Denny's",
+          "companyLocation": "Edmonton, Alberta, Canada · On-site",
+          "description": "Greeting and Seating Guests: Welcoming customers as they arrive, escorting them to their tables, and providing menus.\n\nManaging the Waitlist: Keeping track of table availability, estimating wait times, and organizing the seating plan.\n\nCustomer Service: Answering guest inquiries, assisting with special requests, and maintaining a friendly attitude.\n\nCleaning and Organizing: Ensuring the entrance and dining area are clean, resetting tables, and keeping menus tidy.\n\nSupporting the Team: Communicating with servers and kitchen staff to maintain smooth operations.",
+          "startEndDate": {
+            "start": {
+              "month": 5,
+              "year": 2023
+            },
+            "end": {
+              "month": 5,
+              "year": 2024
+            }
+          },
+          "contractType": "Permanent Part-time",
+          "companyLogo": "https://media.licdn.com/dms/image/v2/C4D0BAQENjffsNb02vA/company-logo_400_400/company-logo_400_400/0/1630500576155/dennys_logo?e=1756944000&v=beta&t=TbzfPbAtiZ8_sb4BtTEf88HX2txAYUBl1yn3I5-VvUg",
+          "linkedInUrl": "https://www.linkedin.com/company/13366/",
+          "linkedInId": "13366"
+        }
+      ]
+    },
+    "schools": {
+      "educationsCount": 2,
+      "educationHistory": [
+        {
+          "degreeName": "Bachelor of Science - BS",
+          "fieldOfStudy": "Computer Science",
+          "linkedInUrl": "https://www.linkedin.com/company/6455/",
+          "schoolLogo": "https://media.licdn.com/dms/image/v2/D560BAQGIXcY0sg1nVQ/company-logo_400_400/company-logo_400_400/0/1725657074608/university_of_alberta_logo?e=1756944000&v=beta&t=STaGy8wLMNdnCzNJw1xXhjsDG3ZNs7mmZ1Kjb80J4E0",
+          "schoolName": "University of Alberta",
+          "startEndDate": {
+            "start": {
+              "month": 8,
+              "year": 2022
+            },
+            "end": {
+              "month": 5,
+              "year": 2026
+            }
+          }
+        },
+        {
+          "degreeName": "High School Diploma",
+          "fieldOfStudy": "None",
+          "linkedInUrl": "https://www.linkedin.com/company/33445520/",
+          "schoolLogo": null,
+          "schoolName": "West Chester East High School",
+          "startEndDate": {
+            "start": {
+              "month": 8,
+              "year": 2018
+            },
+            "end": {
+              "month": 5,
+              "year": 2022
+            }
+          }
+        }
+      ]
+    },
+    "skills": [
+      "Teaching",
+      "One-on-one Instruction",
+      "Calculus",
+      "Probability Theory",
+      "Communication",
+      "Customer Service",
+      "Multitasking",
+      "Time Management",
+      "Problem Solving",
+      "C (Programming Language)",
+      "SQL",
+      "React.js",
+      "Node.js",
+      "Python (Programming Language)",
+      "Django",
+      "Cascading Style Sheets (CSS)",
+      "JavaScript",
+      "HTML5"
+    ],
+    "languages": [],
+    "languagesWithProficiency": [],
+    "recommendations": {
+      "recommendationsCount": 0,
+      "recommendationHistory": []
+    },
+    "certifications": {
+      "certificationsCount": 0,
+      "certificationHistory": []
+    },
+    "testScores": {
+      "testScoresCount": 0,
+      "testScoreHistory": []
+    },
+    "volunteeringExperiences": {
+      "volunteeringExperiencesCount": 0,
+      "volunteeringExperienceHistory": []
+    }
+  },
+  "company": {
+    "linkedInId": "92881183",
+    "name": "Kennedys IQ",
+    "universalName": "kennedysiq",
+    "linkedInUrl": "https://www.linkedin.com/company/92881183",
+    "employeeCount": 63,
+    "followerCount": 1740,
+    "employeeCountRange": {
+      "start": 51,
+      "end": 200
+    },
+    "websiteUrl": "https://kennedysiq.com/",
+    "tagline": "An insurtech business that combines advanced technologies with expert insight from Kennedys Law LLP.",
+    "description": "Kennedys IQ is an established provider of unique and advanced technology products that transform the insurance industry.\n\nBuilt on a core principle of helping you to reduce your dependency on lawyers, our IQ Platform applies artificial intelligence and an intuitive interface to support the decisions that claims handlers and underwriters face every day.\n\nKennedys IQ helps you manage your claims more efficiently. It’s a data-powered technology platform to help you manage your claims in less time, at a lower cost and with better outcomes. And it will help your business become better informed to tackle future threats, challenges and opportunities.\n\nIt generates strategic legal and industry insights to inform your business and your claims strategy. And it uses intelligent tools to power your day-to-day claims processes.\n\nIt brings together lawyers, technologists and claims experts to help your business and your claims professionals do what they do, even better.",
+    "industry": "Software Development",
+    "phone": null,
+    "specialities": [],
+    "headquarter": {
+      "city": "London",
+      "country": "GB",
+      "postalCode": null,
+      "geographicArea": null,
+      "street1": "20 Fenchurch St, London EC3M 3BY",
+      "street2": null
+    },
+    "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFdIYGuzMr31Q/company-logo_400_400/company-logo_400_400/0/1675183419455?e=1756944000&v=beta&t=FAqjEo6pADYd6mtJPZ7DA3er71bxOZ6lk_14kttsjLE",
+    "foundedOn": {
+      "year": 2020
+    },
+    "fundingData": null,
+    "backgroundUrl": "https://media.licdn.com/dms/image/v2/D4E1BAQGbSbVOfu4HCA/company-background_10000/company-background_10000/0/1675202544466/kennedys_iq_cover?e=1754902800&v=beta&t=ckezahTAEYU2IAw0MrXMEZ-PrdXoIfp518LebOPNlJQ"
+  }
+}
