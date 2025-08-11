@@ -4,13 +4,20 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-black = "*"
-dotenv = "*"
 langchain-tavily = "*"
 pydantic = "*"
 flask = "*"
 langsmith = "*"
 openai = "*"
+langchain = "*"
+langchain-openai = "*"
+black = "*"
+dotenv = "*"
+pinecone = "*"
+langchain-pinecone = "*"
+langchain-community = "*"
+pypdf = "*"
+faiss-cpu = "*"
 
 [dev-packages]
 
